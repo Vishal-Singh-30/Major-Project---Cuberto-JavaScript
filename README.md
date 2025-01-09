@@ -33,8 +33,4 @@ Explore the live version of the project here:
 | Inspiration Cards | ![Inspiration Cards 1](card1.png) | ![Inspiration Cards 2](card2.png) |
 
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Vishal-Singh-30/cuberto-landing-page.git
