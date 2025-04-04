@@ -4,7 +4,7 @@ This project is a visually stunning landing page inspired by the design principl
 
 ## Video Walkthrough
 
-Watch a walkthrough of the project here:  
+Watch a walkthrough of the project here (Click on the image to play the video) -:  
 [![Cuberto-Inspired Landing Page Walkthrough](./home2.png)](https://youtu.be/dY95YGVoNXk)
 
 ## Live Link
