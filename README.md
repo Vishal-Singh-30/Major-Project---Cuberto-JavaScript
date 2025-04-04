@@ -2,7 +2,12 @@
 
 This project is a visually stunning landing page inspired by the design principles of Cuberto, showcasing modern web development practices with interactive features and responsive layouts.
 
-## Live Demo
+## Video Walkthrough
+
+Watch a walkthrough of the project here:  
+[![Cuberto-Inspired Landing Page Walkthrough](https://img.youtube.com/vi/dY95YGVoNXk/0.jpg)](https://youtu.be/dY95YGVoNXk)
+
+## Live Link
 
 Explore the live version of the project here:  
 **[Cuberto-Inspired Landing Page](https://cuberto-by-gideon.netlify.app/)**
